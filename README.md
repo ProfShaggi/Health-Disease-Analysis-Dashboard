@@ -1,4 +1,6 @@
-# Heart Disease Analysis Dashboard – Power BI Project
+# Heart Disease Analysis Dashboard (Power BI Project)
+
+![](heart diseases dashboard
 
 ### 📁 Project Summary
 This project involves building an interactive Heart Disease Analysis Dashboard in Power BI to understand survival patterns, demographic trends, and the clinical factors influencing heart disease outcomes. The visualisation summarizes key metrics such as survival rate, age distribution, serum creatinine levels, ejection fraction, and lifestyle-related risk factors.
